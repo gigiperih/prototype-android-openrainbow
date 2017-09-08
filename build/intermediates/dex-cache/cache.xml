@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\1f5631a91e857413adf2aa5f84e55bd04b27e92b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277b499f70d90f862611a923e6edabf7521695fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d42dbd9404b45f58c9097b6e58feab43ecf2cd42">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_106fcfd035e4b6b2dce41d436ada353a44436052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-android\4.1.8\83172a3fa7be927c87d28e21271e07e149b4a028\smack-android-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="83172a3fa7be927c87d28e21271e07e149b4a028">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-android-4.1.8_780ccb9dfbc650e1c128422cb68fa9155a97563b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\minidns-0.1.7_e9f3dec0ae969c7d1156e0ced8dc5b3608fcc1b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.0.1_f921429dd5bbed91f0bca9d58342c14e71b0cc84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-im\4.1.8\4c392898516d687481dafee5dad531fa4448f375\smack-im-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4c392898516d687481dafee5dad531fa4448f375">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-im-4.1.8_73bde9be9e3a40f4f42ae73e67638d5acceeeaf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\9fbe79beacd381cbd34bea5214ca951a10472c9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd30c3b2470f1eec95029d9e1d010b5296708988\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\4248ac1f102e71f97656df6812e2f66199fd048a\output\jars\libs\microlog4android-0.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36c1908500981834f97db19ffe0b7bc7192535b9">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\microlog4android-0.6.0_29f894d0d4001623ed8ef2a5a34847254ce93c1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\4248ac1f102e71f97656df6812e2f66199fd048a\output\jars\libs\base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4934be37b158235e984a07891695764ab19495a3">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\base_java_aee0439e9de4015d019a6b65cc890c19091a65f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-tcp\4.1.8\91cd06461cdf1809db400598f10cab9ee243e8de\smack-tcp-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91cd06461cdf1809db400598f10cab9ee243e8de">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-tcp-4.1.8_f8ac26b92beda5c69d45ad09a2ead3ff5dd7d756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-android-extensions\4.1.8\61ff4428f917ab07c256d33a1f8ce968b4ae9c4c\smack-android-extensions-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="61ff4428f917ab07c256d33a1f8ce968b4ae9c4c">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-android-extensions-4.1.8_bd75934f4a3af26a59d9225895e6e978cefcf2ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\8c5b3741f368d24f6d529451abbaf282eba0c358\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1599389df1f41127b4d923f077173b1d17f2716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\com.vdurmont\emoji-java\3.1.3\eeb5d3e2096cab46bb16e28972892f7e2ad1e873\emoji-java-3.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eeb5d3e2096cab46bb16e28972892f7e2ad1e873">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\emoji-java-3.1.3_d3cf79e0bff8a7a4aa9fbf6e5f31b811f8d2fc54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\b9003fe024f3efcb58da5bb3c82df7cebe56e10c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1077e17986350c4624119da55f3a44790700ee00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\68b6a8aa8853f241df9bede26d58358debd73ce5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_094d4278cab7984d88ecfb605626da85bff391f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_76eb93da9abdad520faaf62d8eb9421794ca5b43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-extensions\4.1.8\db1985083fc31895a24cbdc97877ee8d1193594f\smack-extensions-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db1985083fc31895a24cbdc97877ee8d1193594f">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-extensions-4.1.8_50387eeae26e8fe291766c50cdb49a52b9cdd6cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\ch.imvs\sdes4j\1.1.1\f6d8a0542e591d816d690e1cff0268702420429f\sdes4j-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6d8a0542e591d816d690e1cff0268702420429f">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\sdes4j-1.1.1_f93af2316b2e35586e72612c44131d4ba95547b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\675cdbf513dd00e169c7fcf02644f5eb741d70a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac7ad8a6ee90a8cea74c772cd30fa625b2a1888c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.6\b7f0fc8f61ecadeb3695f0b9464755eee44374d4\commons-codec-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-codec-1.6_4c5781ba23c4f40194b8b52c113d5c160f3f0b75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\39d24f50771db765b8690d014f9d4fcc03049750\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c79e853b6dd77547f68bf0218719c1e46721f4a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_246820cd48eebb6a47be247aa40e0d974acc5632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\4248ac1f102e71f97656df6812e2f66199fd048a\output\jars\libs\libjingle_peerconnection_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2550a765450c424cf719316dd17f37e220841de9">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\libjingle_peerconnection_java_97c1ecff5b46910dcd783e64c671519f7df5ac82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\4248ac1f102e71f97656df6812e2f66199fd048a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5adb2c1d4d35ce99aa922a9ced7cb10f60b685ab">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e17bcd8522274fa6dd0e841399fd524bb51f2685\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-util-cache\0.4.2\4aa590f2a44d49444dcd3bb082017bf0b46f2ff7\jxmpp-util-cache-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-util-cache-0.4.2_4efcf564d81503a10161ee5cb40f67b392c5beb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-core\0.4.2\a4c8ce09be6ec90479be74290e381de4288c9569\jxmpp-core-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-core-0.4.2_73ff332004a7a19cb111a8dfd49531d6cc6984fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-sasl-provided\4.1.8\724d9eb8c8db089118bcc059ee3c2ead188be629\smack-sasl-provided-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="724d9eb8c8db089118bcc059ee3c2ead188be629">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-sasl-provided-4.1.8_eae17df7bb15202867b072eac9546fdeeb00cb2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\3072fce42700b97c6441965da0ff72d07df5c02d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="210a4042913301c708bd9aeed46e4ebb5d77e462">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32d872dacd529ba4389e98c51d016d8b45a2518e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\com.neovisionaries\nv-i18n\1.20\497b42900ada1de0f62996a80080053e7ba7e5ab\nv-i18n-1.20.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="497b42900ada1de0f62996a80080053e7ba7e5ab">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\nv-i18n-1.20_5a49286dcaaeec0f3c139db7ca05536e88802284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-resolver-minidns\4.1.8\c2c8523942e3a344ae63ba22facf2224db597d1f\smack-resolver-minidns-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c8523942e3a344ae63ba22facf2224db597d1f">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-resolver-minidns-4.1.8_81bb2550a5af678b9effa529a720ceb0459f8532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_85baaddcca6a4eab199ffac0069ce878733dadc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.android\build-cache\b44ccd44bf9eba9719e13c1fb918466f8e5a48bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5126cadfee88e5977f43dc52bde9ff483ff2d862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-core\4.1.8\4e7f8fab00601fae4a465fe689bbd4df363af7b5\smack-core-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4e7f8fab00601fae4a465fe689bbd4df363af7b5">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-core-4.1.8_a80713786125d3955258a41c92310afd97a2a1b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GeekseatDev\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-experimental\4.1.8\255562cbfffc4104c16e3fc14166e2b2527f5feb\smack-experimental-4.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="255562cbfffc4104c16e3fc14166e2b2527f5feb">
+        <dex dex="C:\Users\GeekseatDev\Documents\Kerjaan\PrototypeChatRainbow\app\build\intermediates\transforms\dex\debug\folders\1000\10\smack-experimental-4.1.8_05614dc692bc7d23cd33efcdf6fba5194185ed25\classes.dex" />
+    </item>
+
+</items>
